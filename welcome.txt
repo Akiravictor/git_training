@@ -1,2 +1,2 @@
 welcome to this git!
-This is my Git!
+This is my git!
